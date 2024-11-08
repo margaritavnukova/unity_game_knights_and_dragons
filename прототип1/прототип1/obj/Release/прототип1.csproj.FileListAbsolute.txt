@@ -1,0 +1,13 @@
+H:\Курсовик РПМ\прототип1\прототип1\bin\Release\прототип1.exe.config
+H:\Курсовик РПМ\прототип1\прототип1\bin\Release\прототип1.exe
+H:\Курсовик РПМ\прототип1\прототип1\bin\Release\прототип1.pdb
+H:\Курсовик РПМ\прототип1\прототип1\obj\Release\прототип1.csprojAssemblyReference.cache
+H:\Курсовик РПМ\прототип1\прототип1\obj\Release\прототип1.ChooseClass.resources
+H:\Курсовик РПМ\прототип1\прототип1\obj\Release\прототип1.Game.resources
+H:\Курсовик РПМ\прототип1\прототип1\obj\Release\прототип1.Properties.Resources.resources
+H:\Курсовик РПМ\прототип1\прототип1\obj\Release\прототип1.Record.resources
+H:\Курсовик РПМ\прототип1\прототип1\obj\Release\прототип1.StartMenu.resources
+H:\Курсовик РПМ\прототип1\прототип1\obj\Release\прототип1.csproj.GenerateResource.cache
+H:\Курсовик РПМ\прототип1\прототип1\obj\Release\прототип1.csproj.CoreCompileInputs.cache
+H:\Курсовик РПМ\прототип1\прототип1\obj\Release\прототип1.exe
+H:\Курсовик РПМ\прототип1\прототип1\obj\Release\прототип1.pdb

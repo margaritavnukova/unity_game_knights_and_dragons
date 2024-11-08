@@ -1,0 +1,48 @@
+H:\Внукова\Курсовик ПМ\прототип1\прототип1\bin\Debug\прототип1.exe.config
+H:\Внукова\Курсовик ПМ\прототип1\прототип1\bin\Debug\прототип1.exe
+H:\Внукова\Курсовик ПМ\прототип1\прототип1\bin\Debug\прототип1.pdb
+H:\Внукова\Курсовик ПМ\прототип1\прототип1\obj\Debug\прототип1.csprojAssemblyReference.cache
+H:\Внукова\Курсовик ПМ\прототип1\прототип1\obj\Debug\прототип1.Form1.resources
+H:\Внукова\Курсовик ПМ\прототип1\прототип1\obj\Debug\прототип1.Properties.Resources.resources
+H:\Внукова\Курсовик ПМ\прототип1\прототип1\obj\Debug\прототип1.csproj.GenerateResource.cache
+H:\Внукова\Курсовик ПМ\прототип1\прототип1\obj\Debug\прототип1.csproj.CoreCompileInputs.cache
+H:\Внукова\Курсовик ПМ\прототип1\прототип1\obj\Debug\прототип1.exe
+H:\Внукова\Курсовик ПМ\прототип1\прототип1\obj\Debug\прототип1.pdb
+H:\Внукова\Курсовик ПМ\прототип1\прототип1\obj\Debug\прототип1.Form2.resources
+H:\Курсовик РПМ\прототип1\прототип1\obj\Debug\прототип1.Properties.Resources.resources
+H:\Курсовик РПМ\прототип1\прототип1\obj\Debug\прототип1.csproj.GenerateResource.cache
+H:\Курсовик РПМ\прототип1\прототип1\obj\Debug\прототип1.csproj.CoreCompileInputs.cache
+H:\Курсовик РПМ\прототип1\прототип1\obj\Debug\прототип1.exe
+H:\Курсовик РПМ\прототип1\прототип1\obj\Debug\прототип1.pdb
+H:\Курсовик РПМ\прототип1\прототип1\bin\Debug\прототип1.exe.config
+H:\Курсовик РПМ\прототип1\прототип1\bin\Debug\прототип1.exe
+H:\Курсовик РПМ\прототип1\прототип1\bin\Debug\прототип1.pdb
+H:\Курсовик РПМ\прототип1\прототип1\obj\Debug\прототип1.Game.resources
+H:\Курсовик РПМ\прототип1\прототип1\obj\Debug\прототип1.ChooseClass.resources
+C:\Users\Vitra\OneDrive\Рабочий стол\курсач РПМ\прототип1\прототип1\bin\Debug\прототип1.exe.config
+C:\Users\Vitra\OneDrive\Рабочий стол\курсач РПМ\прототип1\прототип1\bin\Debug\прототип1.exe
+C:\Users\Vitra\OneDrive\Рабочий стол\курсач РПМ\прототип1\прототип1\bin\Debug\прототип1.pdb
+C:\Users\Vitra\OneDrive\Рабочий стол\курсач РПМ\прототип1\прототип1\obj\Debug\прототип1.csproj.AssemblyReference.cache
+C:\Users\Vitra\OneDrive\Рабочий стол\курсач РПМ\прототип1\прототип1\obj\Debug\прототип1.ChooseClass.resources
+C:\Users\Vitra\OneDrive\Рабочий стол\курсач РПМ\прототип1\прототип1\obj\Debug\прототип1.Game.resources
+C:\Users\Vitra\OneDrive\Рабочий стол\курсач РПМ\прототип1\прототип1\obj\Debug\прототип1.Properties.Resources.resources
+C:\Users\Vitra\OneDrive\Рабочий стол\курсач РПМ\прототип1\прототип1\obj\Debug\прототип1.csproj.GenerateResource.cache
+C:\Users\Vitra\OneDrive\Рабочий стол\курсач РПМ\прототип1\прототип1\obj\Debug\прототип1.csproj.CoreCompileInputs.cache
+C:\Users\Vitra\OneDrive\Рабочий стол\курсач РПМ\прототип1\прототип1\obj\Debug\прототип1.exe
+C:\Users\Vitra\OneDrive\Рабочий стол\курсач РПМ\прототип1\прототип1\obj\Debug\прототип1.pdb
+C:\Users\Vitra\OneDrive\Рабочий стол\курсач РПМ\прототип1\прототип1\obj\Debug\прототип1.StartMenu.resources
+H:\Курсовик РПМ\прототип1\прототип1\obj\Debug\прототип1.StartMenu.resources
+H:\329195_4\Курсовик РПМ\прототип1\прототип1\bin\Debug\прототип1.exe.config
+H:\329195_4\Курсовик РПМ\прототип1\прототип1\bin\Debug\прототип1.exe
+H:\329195_4\Курсовик РПМ\прототип1\прототип1\obj\Debug\прототип1.csprojAssemblyReference.cache
+H:\329195_4\Курсовик РПМ\прототип1\прототип1\obj\Debug\прототип1.ChooseClass.resources
+H:\329195_4\Курсовик РПМ\прототип1\прототип1\obj\Debug\прототип1.Game.resources
+H:\329195_4\Курсовик РПМ\прототип1\прототип1\obj\Debug\прототип1.Properties.Resources.resources
+H:\329195_4\Курсовик РПМ\прототип1\прототип1\obj\Debug\прототип1.Record.resources
+H:\329195_4\Курсовик РПМ\прототип1\прототип1\obj\Debug\прототип1.StartMenu.resources
+H:\329195_4\Курсовик РПМ\прототип1\прототип1\obj\Debug\прототип1.csproj.GenerateResource.cache
+H:\329195_4\Курсовик РПМ\прототип1\прототип1\obj\Debug\прототип1.csproj.CoreCompileInputs.cache
+H:\329195_4\Курсовик РПМ\прототип1\прототип1\obj\Debug\прототип1.exe
+H:\329195_4\Курсовик РПМ\прототип1\прототип1\obj\Debug\прототип1.pdb
+H:\Курсовик РПМ\прототип1\прототип1\obj\Debug\прототип1.Record.resources
+H:\Курсовик РПМ\прототип1\прототип1\obj\Debug\прототип1.csprojAssemblyReference.cache
